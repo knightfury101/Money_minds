@@ -22,6 +22,20 @@
       "when": 1721748968841,
       "tag": "0002_talented_spyke",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1722480090340,
+      "tag": "0003_abandoned_sue_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1722484467252,
+      "tag": "0004_flaky_moonstone",
+      "breakpoints": true
     }
   ]
 }
